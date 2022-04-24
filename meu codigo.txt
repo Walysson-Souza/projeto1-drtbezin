@@ -1,4 +1,0 @@
-Olá meu nome é, Pedro!
-Olá eu sou uma nova linha!
-testando a volta
-testando as branch´s alternativas
